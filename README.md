@@ -1,4 +1,8 @@
-# 💫 I am Asma Shakeel
+<div align="center">
+
+# I am Asma Shakeel
+
+</div>
 🔭 Working on Machine Learning & NLP projects<br>👯 Open to collaborate on AI & Data Science projects<br>🌱 Learning Advanced Deep Learning & LLMs<br>💬 Ask me about Python, ML, Flutter & Firebase<br>⚡ Turning data into intelligent solutions 🚀<br>
 
 
@@ -16,6 +20,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asma shakeel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
