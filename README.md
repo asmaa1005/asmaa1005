@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I am Asma Shakeel
 🔭 Working on Machine Learning & NLP projects<br>👯 Open to collaborate on AI & Data Science projects<br>🌱 Learning Advanced Deep Learning & LLMs<br>💬 Ask me about Python, ML, Flutter & Firebase<br>⚡ Turning data into intelligent solutions 🚀<br>
 
 
